@@ -1,8 +1,8 @@
 # test
-baidu_index : 抓取百度指数 
+baidu_index 
 
-bs test : 从WIND/CSMAR下载的数据中计算期权价格
+bs test 
 
-jd : 从京东下载产品相关信息
+jd 
 
-est : 股吧评论爬取
+est 
